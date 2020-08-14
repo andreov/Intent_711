@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SyncData</string>
+    <string name="sync">Синхронизация</string>
+    <string name="vTextMorning">Утренняя синхронизация</string>
+    <string name="vTextAfter">Дневная синхронизация</string>
+    <string name="textEvening">Вечерняя синхронизация</string>
+</resources>
